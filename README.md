@@ -13,6 +13,7 @@ Simple and easy-to-understand structure
 Technologies Used
 HTML5
 CSS3
+
 Project Structure
 portfolio-website/
 │
